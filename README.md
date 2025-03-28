@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gigabite-pro&label=Profile%20views&color=0e75b6&style=flat" alt="gigabite-pro" /> </p>
 
-- 🔭 I’m currently working on **byeClicker**
+- 🔭 I’m currently working on **myself :)**
 
 - 🌱 I’m currently learning **DevOps, AI/ML**
 
